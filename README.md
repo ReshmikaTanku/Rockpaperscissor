@@ -1,2 +1,2 @@
 # Rockpaperscissor
-My first game developments using python
+My first game developments using python.
